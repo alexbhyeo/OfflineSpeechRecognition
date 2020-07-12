@@ -3,7 +3,7 @@
 """
 Created on Wed Jul  1 17:39:11 2020
 
-@author: yeoboonhong
+@author: alex yeo 
 """
 
 import pyaudio # Soundcard audio I/O access library
